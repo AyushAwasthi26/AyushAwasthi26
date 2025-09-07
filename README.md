@@ -1,3 +1,13 @@
+#  Welcome to my GitHub
+
+<div align="center">
+<img hight="400" width="1200" alt="GIF" align="center" src="/PixeLɑnd ◇.gif">
+</div>
+
+<br/>
+<hr/>
+
+
 <h2> Hi, I'm Ayush Awasthi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230"/>
 
